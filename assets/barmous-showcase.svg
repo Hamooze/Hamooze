@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Barmous Compliance showcase</title>
+  <desc id="desc">A navy and gold compliance workspace framed by paper, tape, and an editorial product brief.</desc>
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#151526" stroke-opacity=".07"/>
+    </pattern>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F4E78"/><stop offset="1" stop-color="#173A5A"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="376" rx="24" fill="#F0EEE8" stroke="#151526" stroke-width="4"/>
+  <rect x="2" y="2" width="1196" height="376" rx="24" fill="url(#grid)"/>
+  <path d="M0 0h215l-31 24-43-8-31 24-48-13L0 45Z" fill="#C9A84E" opacity=".9"/>
+  <path d="M1200 380H954l32-25 48 8 40-33 52 14 74-27Z" fill="#1F4E78"/>
+
+  <g transform="translate(45 43)">
+    <path d="M10 15L492 0l-4 49 9 43-8 65 11 52-12 87-78-10-72 11-71-8-78 12-69-9-111 10 8-66-9-54 8-64-9-57Z" fill="#315CFF" opacity=".25" transform="translate(12 12)"/>
+    <path d="M10 15L492 0l-4 49 9 43-8 65 11 52-12 87-78-10-72 11-71-8-78 12-69-9-111 10 8-66-9-54 8-64-9-57Z" fill="url(#navy)"/>
+    <rect x="72" y="-7" width="202" height="31" fill="#D9D5CC" transform="rotate(-2 72 -7)"/>
+    <text x="85" y="14" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#151526">// CONTROL THE EVIDENCE FLOW</text>
+    <text x="49" y="92" font-family="Georgia, serif" font-size="55" font-weight="700" fill="#FFFFFF">BARMOUS</text>
+    <text x="49" y="144" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#C9A84E">COMPLIANCE</text>
+    <text x="50" y="185" font-family="Arial, sans-serif" font-size="17" fill="#D1D5DB">Evidence collection, framework mapping,</text>
+    <text x="50" y="211" font-family="Arial, sans-serif" font-size="17" fill="#D1D5DB">continuous monitoring, and clear next steps.</text>
+    <g transform="translate(50 240)">
+      <rect width="134" height="34" rx="7" fill="#C9A84E"/>
+      <text x="17" y="22" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#151526">BARMOUS.AE</text>
+      <rect x="147" width="190" height="34" rx="7" fill="#FFFFFF" fill-opacity=".13" stroke="#FFFFFF" stroke-opacity=".35"/>
+      <text x="162" y="22" font-family="Courier New, monospace" font-size="12" font-weight="700" fill="#FFFFFF">READ-ONLY TOOLING</text>
+    </g>
+  </g>
+
+  <g transform="translate(584 38)">
+    <rect x="14" y="15" width="556" height="294" rx="18" fill="#315CFF" opacity=".22"/>
+    <rect width="556" height="294" rx="18" fill="#FFFFFF" stroke="#1F4E78" stroke-width="3"/>
+    <rect width="556" height="55" rx="18" fill="#1F4E78"/>
+    <rect y="37" width="556" height="18" fill="#1F4E78"/>
+    <circle cx="29" cy="27" r="15" fill="#C9A84E"/>
+    <path d="M29 18l8 3v7c0 6-3 10-8 13-5-3-8-7-8-13v-7Z" fill="none" stroke="#1F4E78" stroke-width="2"/>
+    <text x="55" y="33" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">Readiness workspace</text>
+    <text x="425" y="33" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#D1D5DB">COMPANY SCOPED</text>
+
+    <g transform="translate(26 82)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#516071" letter-spacing="1">EVIDENCE PIPELINE</text>
+      <g transform="translate(0 20)">
+        <rect width="150" height="67" rx="11" fill="#F5F7FA" stroke="#D8DEE6"/>
+        <circle cx="25" cy="23" r="9" fill="#DCEAF5"/><path d="M21 23h8M25 19v8" stroke="#1F4E78" stroke-width="2"/>
+        <text x="43" y="27" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1F4E78">EVIDENCE IN</text>
+        <text x="17" y="51" font-family="Courier New, monospace" font-size="10" fill="#6B7280">POLICIES / CONFIGS</text>
+        <path d="M158 34h34" stroke="#C9A84E" stroke-width="4"/><path d="M185 27l8 7-8 7" fill="none" stroke="#C9A84E" stroke-width="4"/>
+        <rect x="201" width="150" height="67" rx="11" fill="#F5F7FA" stroke="#D8DEE6"/>
+        <circle cx="226" cy="23" r="9" fill="#F7EED2"/><path d="M221 23h10" stroke="#C9A84E" stroke-width="2"/>
+        <text x="244" y="27" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1F4E78">GAPS MAPPED</text>
+        <text x="218" y="51" font-family="Courier New, monospace" font-size="10" fill="#6B7280">CONTROLS / FINDINGS</text>
+        <path d="M359 34h34" stroke="#C9A84E" stroke-width="4"/><path d="M386 27l8 7-8 7" fill="none" stroke="#C9A84E" stroke-width="4"/>
+        <rect x="402" width="102" height="67" rx="11" fill="#1F4E78"/>
+        <text x="416" y="29" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">ACTIONS</text>
+        <text x="416" y="48" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#FFD568">OUT</text>
+      </g>
+      <g transform="translate(0 116)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#516071" letter-spacing="1">FRAMEWORK VIEW</text>
+        <rect y="18" width="504" height="60" rx="10" fill="#F5F7FA"/>
+        <text x="17" y="43" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#1F4E78">UAE IA</text>
+        <rect x="92" y="34" width="105" height="8" rx="4" fill="#D8DEE6"/><rect x="92" y="34" width="76" height="8" rx="4" fill="#C9A84E"/>
+        <text x="219" y="43" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#1F4E78">ISO 27001</text>
+        <rect x="304" y="34" width="88" height="8" rx="4" fill="#D8DEE6"/><rect x="304" y="34" width="60" height="8" rx="4" fill="#1F4E78"/>
+        <text x="418" y="43" font-family="Courier New, monospace" font-size="11" font-weight="700" fill="#1F4E78">SOC 2</text>
+        <circle cx="479" cy="39" r="7" fill="#C9A84E"/>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(1103 17) rotate(8)">
+    <path d="M0 21h19L27 0l8 21h22L41 34l7 22-21-13L8 56l6-22Z" fill="#315CFF" stroke="#151526" stroke-width="3"/>
+  </g>
+</svg>

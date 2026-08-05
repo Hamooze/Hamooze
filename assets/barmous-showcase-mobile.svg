@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Barmous Compliance mobile showcase</title>
+  <desc id="desc">A compact navy and gold Barmous Compliance card with evidence, mapping, and action stages.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#151526" stroke-opacity=".07"/>
+    </pattern>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F4E78"/><stop offset="1" stop-color="#173A5A"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="716" height="256" rx="20" fill="#F0EEE8" stroke="#151526" stroke-width="4"/>
+  <rect x="2" y="2" width="716" height="256" rx="20" fill="url(#grid)"/>
+  <path d="M0 0h155l-24 20-39-8-30 22L0 20Z" fill="#C9A84E"/>
+  <path d="M720 260H566l25-20 37 7 33-25 59 13Z" fill="#1F4E78"/>
+
+  <g transform="translate(22 28)">
+    <path d="M11 8L424 0l-6 41 8 42-7 45 9 36-11 57-72-8-61 10-69-7-58 9-64-8-81 7 5-50-7-45 7-47-6-39Z" fill="#315CFF" opacity=".22" transform="translate(9 9)"/>
+    <path d="M11 8L424 0l-6 41 8 42-7 45 9 36-11 57-72-8-61 10-69-7-58 9-64-8-81 7 5-50-7-45 7-47-6-39Z" fill="url(#navy)"/>
+    <rect x="52" y="-8" width="248" height="29" fill="#D9D5CC" transform="rotate(-2 52 -8)"/>
+    <text x="64" y="13" font-family="Courier New, monospace" font-size="16" font-weight="700" fill="#151526">// READINESS WORKSPACE</text>
+    <text x="47" y="92" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#FFFFFF">BARMOUS</text>
+    <text x="47" y="143" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#C9A84E">COMPLIANCE</text>
+    <rect x="48" y="164" width="239" height="35" rx="7" fill="#C9A84E"/>
+    <text x="65" y="187" font-family="Courier New, monospace" font-size="16" font-weight="700" fill="#151526">READ-ONLY TOOLING</text>
+  </g>
+
+  <g transform="translate(468 41)">
+    <rect x="9" y="10" width="219" height="173" rx="16" fill="#315CFF" opacity=".24"/>
+    <rect width="219" height="173" rx="16" fill="#FFFFFF" stroke="#1F4E78" stroke-width="3"/>
+    <rect width="219" height="45" rx="16" fill="#1F4E78"/>
+    <rect y="29" width="219" height="16" fill="#1F4E78"/>
+    <circle cx="25" cy="23" r="13" fill="#C9A84E"/>
+    <path d="M25 16l7 3v6c0 5-3 9-7 11-4-2-7-6-7-11v-6Z" fill="none" stroke="#1F4E78" stroke-width="2"/>
+    <text x="47" y="29" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#FFFFFF">FLOW</text>
+    <g transform="translate(18 67)" font-family="Arial, sans-serif" font-size="17" font-weight="800">
+      <rect width="183" height="28" rx="7" fill="#F5F7FA" stroke="#D8DEE6"/>
+      <circle cx="17" cy="14" r="6" fill="#C9A84E"/><text x="34" y="20" fill="#1F4E78">EVIDENCE IN</text>
+      <rect y="38" width="183" height="28" rx="7" fill="#F5F7FA" stroke="#D8DEE6"/>
+      <circle cx="17" cy="52" r="6" fill="#C9A84E"/><text x="34" y="58" fill="#1F4E78">GAPS MAPPED</text>
+      <rect y="76" width="183" height="28" rx="7" fill="#1F4E78"/>
+      <circle cx="17" cy="90" r="6" fill="#C9A84E"/><text x="34" y="96" fill="#FFFFFF">ACTIONS OUT</text>
+    </g>
+  </g>
+
+  <g transform="translate(653 12) rotate(8)">
+    <path d="M0 19h17L24 0l8 19h19L37 31l6 19-19-11L7 50l5-19Z" fill="#315CFF" stroke="#151526" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Nemu mobile showcase</title>
+  <desc id="desc">A compact Nemu product card with a bold studio title and connected Companion status.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#BCA9FF" stroke-opacity=".10"/>
+    </pattern>
+  </defs>
+  <rect x="2" y="2" width="716" height="256" rx="20" fill="#151526" stroke="#6687FF" stroke-width="4"/>
+  <rect x="2" y="2" width="716" height="256" rx="20" fill="url(#grid)"/>
+  <path d="M0 0h170l-24 20-42-8-30 22L0 20Z" fill="#B9A5FF"/>
+  <path d="M720 260H566l25-20 37 7 33-25 59 13Z" fill="#315CFF"/>
+
+  <g transform="translate(22 28)">
+    <path d="M11 8L424 0l-6 41 8 42-7 45 9 36-11 57-72-8-61 10-69-7-58 9-64-8-81 7 5-50-7-45 7-47-6-39Z" fill="#315CFF" opacity=".42" transform="translate(9 9)"/>
+    <path d="M11 8L424 0l-6 41 8 42-7 45 9 36-11 57-72-8-61 10-69-7-58 9-64-8-81 7 5-50-7-45 7-47-6-39Z" fill="#F0EEE8"/>
+    <rect x="52" y="-8" width="203" height="29" fill="#D9D5CC" transform="rotate(-2 52 -8)"/>
+    <text x="64" y="13" font-family="Courier New, monospace" font-size="16" font-weight="700" fill="#151526">// BUILT TO BE USED</text>
+    <text x="47" y="108" font-family="Impact, Arial Black, sans-serif" font-size="82" font-weight="900" fill="#151526" textLength="302" lengthAdjust="spacingAndGlyphs">NEMU</text>
+    <text x="49" y="143" font-family="Arial, sans-serif" font-size="21" font-weight="900" letter-spacing="1" fill="#315CFF">SOFTWARE STUDIO</text>
+    <rect x="48" y="164" width="232" height="35" rx="7" fill="#151526"/>
+    <text x="66" y="187" font-family="Courier New, monospace" font-size="17" font-weight="700" fill="#FFFFFF">COMPANION / TEST</text>
+  </g>
+
+  <g transform="translate(470 44)">
+    <rect x="9" y="10" width="211" height="166" rx="16" fill="#315CFF" opacity=".52"/>
+    <rect width="211" height="166" rx="16" fill="#202039" stroke="#FBFAFF" stroke-width="3"/>
+    <rect width="211" height="43" rx="16" fill="#2A2945"/>
+    <rect y="28" width="211" height="15" fill="#2A2945"/>
+    <circle cx="22" cy="21" r="5" fill="#FF78C8"/><circle cx="39" cy="21" r="5" fill="#FFD568"/><circle cx="56" cy="21" r="5" fill="#7EE7BD"/>
+    <text x="72" y="27" font-family="Courier New, monospace" font-size="15" font-weight="700" fill="#FFFFFF">COMPANION</text>
+    <g transform="translate(20 72)" font-family="Courier New, monospace" font-size="17" font-weight="700">
+      <text x="0" y="0" fill="#6687FF">✓</text><text x="27" y="0" fill="#FFFFFF">CONNECTED</text>
+      <text x="0" y="34" fill="#6687FF">✓</text><text x="27" y="34" fill="#FFFFFF">READ ONLY</text>
+      <text x="0" y="68" fill="#6687FF">✓</text><text x="27" y="68" fill="#FFFFFF">CREDS LOCAL</text>
+    </g>
+  </g>
+
+  <g transform="translate(656 12) rotate(8)">
+    <path d="M0 19h17L24 0l8 19h19L37 31l6 19-19-11L7 50l5-19Z" fill="#FF78C8" stroke="#151526" stroke-width="3"/>
+  </g>
+</svg>
