@@ -52,6 +52,4 @@
   <g transform="translate(1085 20) rotate(9)">
     <path d="M0 22h20L28 0l9 22h23L43 35l8 23-23-13L8 58l7-23Z" fill="#FF78C8" stroke="#151526" stroke-width="3"/>
   </g>
-  <path d="M565 322c14-18 28-20 42-2" fill="none" stroke="#FFD568" stroke-width="5" stroke-linecap="round"/>
-  <path d="M596 310l11 10-14 7" fill="none" stroke="#FFD568" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

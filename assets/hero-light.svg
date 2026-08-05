@@ -55,7 +55,7 @@
     <text x="47" y="47" fill="#1F4E78" font-family="Georgia, serif" font-size="29" font-weight="700" letter-spacing=".5">BARMOUS</text>
     <text x="47" y="79" fill="#8A6A16" font-family="Georgia, serif" font-size="26" font-weight="700">COMPLIANCE</text>
     <text x="47" y="101" fill="#516071" font-family="Courier New, monospace" font-size="12" font-weight="700">EVIDENCE / FINDINGS / REMEDIATION</text>
-    <image x="325" y="22" width="64" height="64" href="barmous-compliance-logo.jpg" preserveAspectRatio="xMidYMid meet"/>
+    <image x="325" y="22" width="64" height="64" href="barmous-compliance-logo.png" preserveAspectRatio="xMidYMid meet"/>
   </g>
 
   <g transform="translate(852 378) rotate(-4)">
