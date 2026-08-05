@@ -41,7 +41,7 @@
     <path d="M0 19L25 3l23 8L74 0l31 13 36-9 28 12 39-13 34 11 31-9 42 11 27-12 48 15V0H0Z" fill="#6687FF" opacity=".72"/>
     <g transform="translate(24 34)">
       <rect width="49" height="49" rx="10" fill="#151526"/>
-      <path d="M10 11h14v8h8v-8h8v27H26v-8h-8v8h-8Zm8 8v8h8v-8Z" fill="#6687FF"/>
+      <image x="4.5" y="4.5" width="40" height="40" href="nemu-stepped-mark.png" preserveAspectRatio="xMidYMid meet"/>
     </g>
     <text x="92" y="58" fill="#FFFFFF" font-family="Impact, Arial Black, sans-serif" font-size="34" font-weight="900" letter-spacing="1">NEMU</text>
     <text x="92" y="82" fill="#D6DCFF" font-family="Courier New, monospace" font-size="12" font-weight="700">SOFTWARE STUDIO / COMPANION</text>
@@ -55,8 +55,7 @@
     <text x="47" y="47" fill="#1F4E78" font-family="Georgia, serif" font-size="29" font-weight="700" letter-spacing=".5">BARMOUS</text>
     <text x="47" y="79" fill="#8A6A16" font-family="Georgia, serif" font-size="26" font-weight="700">COMPLIANCE</text>
     <text x="47" y="101" fill="#516071" font-family="Courier New, monospace" font-size="12" font-weight="700">EVIDENCE / FINDINGS / REMEDIATION</text>
-    <circle cx="357" cy="54" r="23" fill="#1F4E78"/>
-    <path d="M357 39l12 5v10c0 9-5 15-12 19-7-4-12-10-12-19V44Z" fill="none" stroke="#C9A84E" stroke-width="3"/>
+    <image x="325" y="22" width="64" height="64" href="barmous-compliance-logo.jpg" preserveAspectRatio="xMidYMid meet"/>
   </g>
 
   <g transform="translate(852 378) rotate(-4)">
