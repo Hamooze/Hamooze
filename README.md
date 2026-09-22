@@ -29,9 +29,9 @@
 ## Projects
 
 <p align="center">
-  <a href="https://nemu.ae"><img src="./assets/orbit-nemu.svg" width="48%" alt="Nemu — software engineering studio"></a>
+  <a href="https://nemu.ae"><img src="./assets/orbit-nemu.png" width="48%" alt="Nemu — software engineering studio"></a>
   &nbsp;
-  <a href="https://barmous.ae"><img src="./assets/orbit-barmous.svg" width="48%" alt="Barmous — compliance readiness and gap assessment"></a>
+  <a href="https://barmous.ae"><img src="./assets/orbit-barmous.png" width="48%" alt="Barmous — compliance readiness and gap assessment"></a>
 </p>
 
 <details>
