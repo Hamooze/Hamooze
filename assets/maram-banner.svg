@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Maram Alkatheeri</title>
+  <desc id="desc">A blush pink banner with illustrated tulips and a ribbon bow. A little curiosity, a little code, and a pink bow.</desc>
+  <rect width="1200" height="340" rx="24" fill="#FFF7FA"/>
+  <rect x="14" y="14" width="1172" height="312" rx="18" fill="none" stroke="#EAC2D1" stroke-width="2"/>
+  <rect x="25" y="25" width="1150" height="290" rx="13" fill="none" stroke="#EAC2D1" stroke-dasharray="3 7"/>
+  <g fill="none" stroke="#92A38B" stroke-width="5" stroke-linecap="round">
+    <path d="M133 263 Q145 205 131 149 M133 244 Q102 229 101 201 Q132 205 137 233 M138 225 Q167 211 170 184 Q141 190 138 215"/>
+    <path d="M205 268 Q192 220 207 175 M201 245 Q225 230 232 210 Q203 212 200 235"/>
+  </g>
+  <path d="M131 159 C99 149 100 116 107 100 L125 118 L139 94 L148 119 L167 107 C169 138 157 160 131 159Z" fill="#EAA9C0"/>
+  <path d="M207 183 C181 178 181 151 188 139 L203 153 L216 132 L222 154 L237 145 C239 170 227 187 207 183Z" fill="#F0C3D3"/>
+  <g fill="#EDB4C9" stroke="#D18AA5" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M1055 155 C1006 105 980 114 991 153 C995 174 1028 170 1055 163Z"/>
+    <path d="M1055 155 C1104 105 1130 114 1119 153 C1115 174 1082 170 1055 163Z"/>
+    <path d="M1049 164 Q1031 196 1011 226 L1033 219 L1043 237 Q1060 199 1061 165Z"/>
+    <path d="M1061 164 Q1075 193 1102 215 L1081 213 L1076 232 Q1055 199 1049 166Z"/>
+    <rect x="1044" y="147" width="22" height="26" rx="8"/>
+  </g>
+  <g fill="#C58CA2">
+    <path d="M934 73 L937 81 L945 84 L937 87 L934 95 L931 87 L923 84 L931 81Z"/>
+    <path d="M268 77 L271 85 L279 88 L271 91 L268 99 L265 91 L257 88 L265 85Z"/>
+    <circle cx="953" cy="254" r="3"/><circle cx="278" cy="255" r="3"/>
+  </g>
+  <text x="600" y="110" text-anchor="middle" fill="#A16B80" font-family="Arial, sans-serif" font-size="12" letter-spacing="5">WELCOME TO MY LITTLE CORNER</text>
+  <text x="600" y="184" text-anchor="middle" fill="#75485B" font-family="Georgia, 'Times New Roman', serif" font-size="57">Maram Alkatheeri</text>
+  <text x="600" y="228" text-anchor="middle" fill="#A16B80" font-family="Arial, sans-serif" font-size="17">a little curiosity, a little code, and a pink bow</text>
+  <path d="M481 261 H577 M623 261 H719" stroke="#DFB2C4" stroke-width="1.5"/>
+  <path d="M600 267 C580 254 591 245 600 254 C609 245 620 254 600 267Z" fill="#D99DB6"/>
+</svg>
